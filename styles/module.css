@@ -1,0 +1,9 @@
+header li:hover {
+  cursor: pointer;
+  color: rgb(23, 99, 0);
+}
+
+footer li:hover {
+  cursor: pointer;
+  color: rgb(23, 99, 0);
+}
