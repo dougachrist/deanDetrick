@@ -1,0 +1,14 @@
+body {
+  background: #888;
+}
+
+header {
+  background: #444;
+
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 24px;
+}

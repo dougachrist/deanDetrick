@@ -1,0 +1,23 @@
+header ul {
+  text-align: center;
+}
+
+header li {
+  color: whitesmoke ;
+  display: inline;
+  padding: 3px;
+}
+
+main {
+  text-align: center;
+  padding-top: 10px;
+}
+
+footer ul {
+  text-align: center;
+}
+
+footer li {
+  color: green;
+  display: inline;
+}
